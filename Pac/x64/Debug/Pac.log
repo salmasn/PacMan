@@ -1,0 +1,52 @@
+﻿  Pac.cpp
+C:\Users\HP\source\repos\Pac\Pac.cpp(99,33): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+C:\Users\HP\source\repos\Pac\Pac.cpp(99,33): warning C4244:         with
+C:\Users\HP\source\repos\Pac\Pac.cpp(99,33): warning C4244:         [
+C:\Users\HP\source\repos\Pac\Pac.cpp(99,33): warning C4244:             T=float
+C:\Users\HP\source\repos\Pac\Pac.cpp(99,33): warning C4244:         ]
+C:\Users\HP\source\repos\Pac\Pac.cpp(100,33): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+C:\Users\HP\source\repos\Pac\Pac.cpp(100,33): warning C4244:         with
+C:\Users\HP\source\repos\Pac\Pac.cpp(100,33): warning C4244:         [
+C:\Users\HP\source\repos\Pac\Pac.cpp(100,33): warning C4244:             T=float
+C:\Users\HP\source\repos\Pac\Pac.cpp(100,33): warning C4244:         ]
+C:\Users\HP\source\repos\Pac\Pac.cpp(108,33): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+C:\Users\HP\source\repos\Pac\Pac.cpp(108,33): warning C4244:         with
+C:\Users\HP\source\repos\Pac\Pac.cpp(108,33): warning C4244:         [
+C:\Users\HP\source\repos\Pac\Pac.cpp(108,33): warning C4244:             T=float
+C:\Users\HP\source\repos\Pac\Pac.cpp(108,33): warning C4244:         ]
+C:\Users\HP\source\repos\Pac\Pac.cpp(109,33): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+C:\Users\HP\source\repos\Pac\Pac.cpp(109,33): warning C4244:         with
+C:\Users\HP\source\repos\Pac\Pac.cpp(109,33): warning C4244:         [
+C:\Users\HP\source\repos\Pac\Pac.cpp(109,33): warning C4244:             T=float
+C:\Users\HP\source\repos\Pac\Pac.cpp(109,33): warning C4244:         ]
+C:\Users\HP\source\repos\Pac\Pac.cpp(117,33): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+C:\Users\HP\source\repos\Pac\Pac.cpp(117,33): warning C4244:         with
+C:\Users\HP\source\repos\Pac\Pac.cpp(117,33): warning C4244:         [
+C:\Users\HP\source\repos\Pac\Pac.cpp(117,33): warning C4244:             T=float
+C:\Users\HP\source\repos\Pac\Pac.cpp(117,33): warning C4244:         ]
+C:\Users\HP\source\repos\Pac\Pac.cpp(118,33): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+C:\Users\HP\source\repos\Pac\Pac.cpp(118,33): warning C4244:         with
+C:\Users\HP\source\repos\Pac\Pac.cpp(118,33): warning C4244:         [
+C:\Users\HP\source\repos\Pac\Pac.cpp(118,33): warning C4244:             T=float
+C:\Users\HP\source\repos\Pac\Pac.cpp(118,33): warning C4244:         ]
+C:\Users\HP\source\repos\Pac\Pac.cpp(126,33): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+C:\Users\HP\source\repos\Pac\Pac.cpp(126,33): warning C4244:         with
+C:\Users\HP\source\repos\Pac\Pac.cpp(126,33): warning C4244:         [
+C:\Users\HP\source\repos\Pac\Pac.cpp(126,33): warning C4244:             T=float
+C:\Users\HP\source\repos\Pac\Pac.cpp(126,33): warning C4244:         ]
+C:\Users\HP\source\repos\Pac\Pac.cpp(127,33): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+C:\Users\HP\source\repos\Pac\Pac.cpp(127,33): warning C4244:         with
+C:\Users\HP\source\repos\Pac\Pac.cpp(127,33): warning C4244:         [
+C:\Users\HP\source\repos\Pac\Pac.cpp(127,33): warning C4244:             T=float
+C:\Users\HP\source\repos\Pac\Pac.cpp(127,33): warning C4244:         ]
+C:\Users\HP\source\repos\Pac\Pac.cpp(135,29): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+C:\Users\HP\source\repos\Pac\Pac.cpp(135,29): warning C4244:         with
+C:\Users\HP\source\repos\Pac\Pac.cpp(135,29): warning C4244:         [
+C:\Users\HP\source\repos\Pac\Pac.cpp(135,29): warning C4244:             T=float
+C:\Users\HP\source\repos\Pac\Pac.cpp(135,29): warning C4244:         ]
+C:\Users\HP\source\repos\Pac\Pac.cpp(136,29): warning C4244: 'initialisation' : conversion de 'T' en 'int', perte possible de données
+C:\Users\HP\source\repos\Pac\Pac.cpp(136,29): warning C4244:         with
+C:\Users\HP\source\repos\Pac\Pac.cpp(136,29): warning C4244:         [
+C:\Users\HP\source\repos\Pac\Pac.cpp(136,29): warning C4244:             T=float
+C:\Users\HP\source\repos\Pac\Pac.cpp(136,29): warning C4244:         ]
+  Pac.vcxproj -> C:\Users\HP\source\repos\Pac\x64\Debug\Pac.exe
